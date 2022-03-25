@@ -10,4 +10,8 @@ Hi there 👋
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I realy love to programing in the morning 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago1henrique&theme=dracula&show_icons=true)
+<div align="center">
+  <a href="https://github.com/thiago1henrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1henrique&layout=compact&langs_count=7&theme=dracula"/>
+</div>
