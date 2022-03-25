@@ -1,6 +1,6 @@
 Hi there 👋
 
-<h1> I'am Thiago Henriqu</h1>
+<h1> I'am Thiago Henrique</h1>
 
 - 🔭 I’m currently working on <b>Freelancer<b>
 - 🌱 I’m currently learning HTML CSS and JavaScript
