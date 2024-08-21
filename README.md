@@ -4,7 +4,7 @@
 - 🌱 **Learning**: HTML, CSS, and JavaScript.
 - 👯 **Looking to collaborate** on exciting projects!
 - 🛠️ **Passionate about** building innovative solutions and exploring new technologies.
-- 📫 **Reach me**: Feel free to [get in touch](mailto:1thiago1henrique@gmail.com)!
+- 📫 **Reach me**: Feel free to [get in touch](https://www.linkedin.com/in/thiago-henrique-97b559216/)!
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I love programming in the morning!
 
