@@ -1,5 +1,5 @@
 # Howdy 🤠 What's up?
----
+
 I'm Thiago, a computer technician and software engineer. I am passionate about emerging frontend and UI/UX technologies. I work with fullstack development and creating layouts.
 
 ## Technologies I Work With
@@ -17,7 +17,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 </div>
 
 ## Contact
----
+
 <a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank">
   <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
 </a>
