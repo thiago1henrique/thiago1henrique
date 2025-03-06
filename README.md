@@ -1,19 +1,6 @@
-# Hello! I'm Thiago Henrique 👋
-
-- 🔭 **Currently working as a Freelancer**.
-- 🌱 **Learning**: HTML, CSS, and JavaScript.
-- 👯 **Looking to collaborate** on exciting projects!
-- 🛠️ **Passionate about** building innovative solutions and exploring new technologies.
-- 📫 **Reach me**: Feel free to [get in touch](https://www.linkedin.com/in/thiago-henrique-97b559216/)!
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I love programming in the morning!
-
-<div align="center">
-  <a href="https://github.com/thiago1henrique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Thiago Henrique's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1henrique&layout=compact&langs_count=7&theme=dracula" alt="Thiago Henrique's Most Used Languages"/>
-  </a>
-</div>
+# Howdy 🤠 What's up?
+---
+I'm Thiago, a computer technician and software engineer. I am passionate about emerging frontend and UI/UX technologies. I work with fullstack development and creating layouts.
 
 ## Technologies I Work With
 
