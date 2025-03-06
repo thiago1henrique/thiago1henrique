@@ -5,5 +5,13 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 ## Technologies I Work With
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript Icon" width="50" height="50">
+  <img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://logospng.org/download/mysql/mysql-4096.png" alt="MySQL Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" alt="Python Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="TypeScript Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Icon" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma Icon" width="50" height="50">
 </div>
