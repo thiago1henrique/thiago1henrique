@@ -18,7 +18,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank">
+<a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank" style="background: transparent; color: transparent; text-decoration: none;">
   <img src="https://actagencia.com.br/wp-content/uploads/2015/08/06-05-15-768x756-1.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
 </a>
 
