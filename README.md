@@ -5,7 +5,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 ## Technologies I Work With
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
-  <img src="https://img.icons8.com/color/512/javascript.png" alt="JavaScript Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="JavaScript Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
   <img src="https://logospng.org/download/mysql/mysql-4096.png" alt="MySQL Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" alt="Python Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
