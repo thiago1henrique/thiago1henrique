@@ -21,3 +21,8 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 <a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank">
   <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
 </a>
+
+<a href="mailto:contatothiago1henrique@gmail.com">
+  <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Email Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
+</a>
+contatothiago1henrique@gmail.com
