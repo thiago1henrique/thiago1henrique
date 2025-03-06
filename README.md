@@ -18,16 +18,15 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 
 ## Contact
 
-<div style="display: flex">
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 10px;">
+    <a href="mailto:contatothiago1henrique@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email Icon" width="50" height="50" style="object-fit: cover;">
+    </a>
+  </div>
   <div>
-  <a href="mailto:contatothiago1henrique@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
-</a>
-</div>
-
-<div>
-  <a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank" style="background: transparent !important; color: transparent !important; text-decoration: none !important;">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384874.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
-</a>
-</div>
+    <a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank" style="background: transparent; color: transparent; text-decoration: none;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384874.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
+    </a>
+  </div>
 </div>
