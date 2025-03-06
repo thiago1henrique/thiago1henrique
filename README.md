@@ -15,3 +15,9 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma Icon" width="50" height="50" style="object-fit: cover;">
 </div>
+
+## Contact
+---
+<a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank">
+  <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
+</a>
