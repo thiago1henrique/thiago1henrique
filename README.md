@@ -13,5 +13,5 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma Icon" width="50" height="50" style="object-fit: cover;">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma Icon" width="50" height="50" style="object-fit: cover;">
 </div>
