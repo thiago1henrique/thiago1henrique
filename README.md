@@ -19,10 +19,10 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 ## Contact
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="mailto:contatothiago1henrique@gmail.com">
+  <a href="">
     <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email Icon" width="50" height="50" style="object-fit: cover;">
   </a>
-  <a href="https://www.linkedin.com/in/thiago-henrique-97b559216/" target="_blank" style="background: transparent; color: transparent; text-decoration: none;">
+  <a href="" target="_blank" style="background: transparent; color: transparent; text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384874.png" alt="LinkedIn Icon" width="50" height="50" style="object-fit: cover;">
   </a>
 </div>
