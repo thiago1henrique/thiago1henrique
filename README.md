@@ -23,6 +23,5 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 </a>
 
 <a href="mailto:contatothiago1henrique@gmail.com">
-  <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Email Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
+  <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
 </a>
-contatothiago1henrique@gmail.com
