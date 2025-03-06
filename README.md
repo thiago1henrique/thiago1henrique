@@ -18,7 +18,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 
 ## Contact
 
-<div>
+<div style="display: flex">
   <div>
   <a href="mailto:contatothiago1henrique@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email Icon" width="50" height="50" style="margin-right: 10px; object-fit: cover;">
