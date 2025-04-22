@@ -10,6 +10,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" alt="Python Icon" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="JavaScript Icon" width="50" height="50">
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="TypeScript Icon" width="50" height="50">
+  <img src="https://img.icons8.com/color/512/dart.png" alt="Dart Icon" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React Icon" width="50" height="50">
   <img src="https://static-00.iconduck.com/assets.00/file-type-expo-icon-904x1024-mkxmswdl.png" alt="Expo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular Icon" width="50" height="50">
