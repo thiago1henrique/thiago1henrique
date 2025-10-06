@@ -5,7 +5,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
 ## Technologies I Work With
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="50" height="50">
-  <img src="[https://cdn-icons-png.flaticon.com/512/226/226777.png](https://wp.logos-download.com/wp-content/uploads/2021/01/Spring_Logo.png?dl)" alt="Spring" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Spring" width="50" height="50">
   <img src="https://logospng.org/download/mysql/mysql-4096.png" alt="MySQL Icon" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET Icon" width="50" height="50">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" alt="Python Icon" width="50" height="50">
