@@ -14,7 +14,7 @@ I'm Thiago, a computer technician and software engineer. I am passionate about e
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript Icon" width="50" height="50">
   <img src="https://img.icons8.com/color/512/dart.png" alt="Dart Icon" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React Icon" width="50" height="50">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudh5nycYRnJoOsDYIMdoSkkyBLyrovgIEJw&s" alt="Angular Icon" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="Angular Icon" width="50" height="50">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma Icon" width="50" height="50">
   <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux Icon" width="50" height="50">
 </div>
