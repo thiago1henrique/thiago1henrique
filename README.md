@@ -101,6 +101,6 @@ TailwindCSS &nbsp;·&nbsp; Figma
 
 <br/>
 
-<sub>crafted with intention &nbsp;·&nbsp; thiago1henrique &nbsp;·&nbsp; 2025</sub>
+<sub>crafted with intention &nbsp;·&nbsp; thiago1henrique &nbsp;·&nbsp; 2026</sub>
 
 </div>
