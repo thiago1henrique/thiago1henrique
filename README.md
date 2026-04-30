@@ -1,5 +1,4 @@
-# Olá! Me chamo Thiago Henrique 👋
-
+# Olá! Me chamo Thiago Henrique 
 Sou técnico em informática e engenheiro de software, apaixonado por explorar as fronteiras do **Frontend** e **UI/UX**. Atuo com desenvolvimento Fullstack, unindo a robustez do backend com layouts modernos e funcionais.
 
 ---
