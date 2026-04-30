@@ -1,55 +1,109 @@
-# [TTY] - Session: ThiagoHenrique
+```
+ _____ _     _                     _   _            _       _
+|_   _| |__ (_) __ _  __ _  ___  | | | | ___ _ __ | |_ __ (_) __ _ _   _  ___
+  | | | '_ \| |/ _` |/ _` |/ _ \ | |_| |/ _ \ '_ \| | '__| |/ _` | | | |/ _ \
+  | | | | | | | (_| | (_| | (_) ||  _  |  __/ | | | | |  | | (_| | |_| |  __/
+  |_| |_| |_|_|\__,_|\__, |\___/ |_| |_|\___|_| |_|_|_|  |_|\__, |\__,_|\___|
+                      |___/                                    |___/
+```
 
-```text
-  __________________________________________________________________________
- /                                                                          \
-|  THIAGO HENRIQUE v2.0.26                                                   |
-|  ------------------------------------------------------------------------  |
-|  $ whoami        > Software Engineer & Computer Technician                  |
-|  $ location      > Jaboatão dos Guararapes, PE - Brazil                    |
-|  $ preferences   > Sharp Edges, Geometric UI, Performance Optimization     |
-|  $ status        > Active: Developing Scalable Corporate Architectures     |
- \__________________________________________________________________________/
-          \____________________________________________________________/
-                 \______________________________________________/
-                        \________________________________/
+```
+┌─────────────────────────────────────────────────────┐
+│  ◈  THIAGO_HENRIQUE.profile                         │
+├─────────────────────────────────────────────────────┤
+│  Técnico em Informática & Engenheiro de Software    │
+│  Fullstack dev apaixonado por Frontend & UI/UX      │
+│  Explorando as fronteiras do design moderno         │
+└─────────────────────────────────────────────────────┘
+```
 
-[SYSTEM_RESOURCES]
-----------------------------------------------------------------------------
-CPU: Fullstack Development Focus (React, Next.js, Java, .NET)
-RAM: Clean Code & Spec-Anchored Development (SDD)
-OS:  Manjaro / Ubuntu / Windows (WSL2 Environment)
-----------------------------------------------------------------------------
+---
 
-[FILE_SYSTEM_EXPLORER]
-$ ls -R /home/thiago/stack/
+### ▶ EXPERTISE
 
-./frontend:
-- Next.js (Modern Web)
-- Svelte (High Performance)
-- Tailwind CSS v4 (Geometric Design)
-- Figma (UX/UI Prototyping)
+```
+[ FRONTEND ]──────── ████████░░ 80%
+[ BACKEND  ]──────── ███████░░░ 70%
+[ UI/UX    ]──────── ████████░░ 80%
+[ INFRA    ]──────── ██████░░░░ 60%
+```
 
-./backend:
-- Java / Spring Boot
-- .NET / C#
-- Python / Node.js
-- MySQL / Supabase / PostgreSQL
+---
 
-./devops_infra:
-- Docker / Vercel / AWS Amplify
-- Git / GitHub Automation
-- Zen Browser (Workflow focus)
+### ▶ STACK
 
-[LOG_HISTORY]
-- [OK] Migrated Fitmass.com.br to Next.js + Tailwind
-- [OK] Implemented SEO & SDD for Mangue House
-- [OK] Analyzing datasets for Graduation Thesis (TCC)
-- [OK] Developing Marduk Simulation Components
+```
+  ___ _____ _    ___ _  __   ___ _____ _   _  ___ _  __
+ / __|_   _/_\  / __| |/ /  / __|_   _/_\ | \| |/ __| |/ /
+ \__ \ | |/ _ \| (__| ' <   \__ \ | |/ _ \| .` | (_ | ' <
+ |___/ |_/_/ \_\\__|_|\_\  |___/ |_/_/ \_\_|\_|\___|_|\_\
+```
 
-[NETWORK_CONNECTIVITY]
-$ ping -c 4 [linkedin.com/in/thiago-henrique-97b559216/](https://linkedin.com/in/thiago-henrique-97b559216/)
-64 bytes from linkedin: icm_seq=1 ttl=64 time=0.042ms
-64 bytes from linkedin: icm_seq=2 ttl=64 time=0.038ms
+**Languages**
 
-[GITHUB_STATS_STREAM]
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-1a1a1a?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white)
+
+**Frameworks & UI**
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1a1a1a?style=flat-square&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-1a1a1a?style=flat-square&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=flat-square&logo=dotnet&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1a1a1a?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=white)
+
+**Infra & Database**
+
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### ▶ STATS
+
+```
+  ___ _____ _ _____ ___
+ / __|_   _/_\_   _/ __|
+ \__ \ | |/ _ \| | \__ \
+ |___/ |_/_/ \_\_| |___/
+```
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=1a1a1a&bg_color=f5f5f0" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago1henrique&layout=compact&langs_count=7&theme=graywhite&hide_border=true&title_color=1a1a1a&text_color=1a1a1a&bg_color=f5f5f0" />
+</p>
+
+---
+
+### ▶ CONNECT
+
+```
+   ___ ___  _  _ _  _ ___ ___ _____
+  / __/ _ \| \| | \| | __/ __|_   _|
+ | (_| (_) | .` | .` | _| (__  | |
+  \___\___/|_|\_|_|\_|___\___| |_|
+```
+
+```
+[in] linkedin.com/in/thiago-henrique-97b559216
+[gh] github.com/thiago1henrique
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-97b559216/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/thiago1henrique)
+
+---
+
+```
+┌─────────────────────────────────────────────────┐
+│  AVAILABLE FOR COLLABORATIONS                   │
+│  open to opportunities · fullstack · ui/ux      │
+└─────────────────────────────────────────────────┘
+         System 7.0.1 • Thiago_Henrique.profile
+```
