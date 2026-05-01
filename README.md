@@ -71,8 +71,8 @@ TailwindCSS &nbsp;·&nbsp; Figma
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=000000&icon_color=000000&text_color=555555">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=thiago1henrique&show_icons=true&theme=default&include_all_commits=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555">
   </picture>
   &nbsp;&nbsp;
   <picture>
