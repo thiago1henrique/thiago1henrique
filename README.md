@@ -1,15 +1,17 @@
 <div align="right">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=111111">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=111111">
     <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=eeeeee">
   </picture>
   &nbsp;
   <img src="https://img.shields.io/badge/Pernambuco%2C%20BR-000000?style=flat-square&logoColor=white">
 </div>
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=1&pause=999999&color=000000&multiline=true&width=600&height=80&lines=THIAGO+HENRIQUE" alt="Thiago Henrique" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=1&pause=999999&color=FFFFFF&multiline=true&width=600&height=80&lines=THIAGO+HENRIQUE">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=1&pause=999999&color=000000&multiline=true&width=600&height=80&lines=THIAGO+HENRIQUE" alt="Thiago Henrique" />
+</picture>
 
 ```
 Software Engineer  ·  Fullstack Dev  ·  UI / UX
@@ -28,7 +30,6 @@ Software Engineer  ·  Fullstack Dev  ·  UI / UX
 <td width="33%" valign="top">
 
 **`EXPERTISE`**
-
 ```
 Frontend  ████████░░ 80
 UI/UX     ████████░░ 80
@@ -100,7 +101,6 @@ TailwindCSS &nbsp;·&nbsp; Figma
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago1henrique)
 
 <br/>
-
 <sub>crafted with intention &nbsp;·&nbsp; thiago1henrique &nbsp;·&nbsp; 2026</sub>
 
 </div>
