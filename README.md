@@ -1,6 +1,6 @@
 <div align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=111111">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=111111">
     <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square&labelColor=eeeeee">
   </picture>
   &nbsp;
