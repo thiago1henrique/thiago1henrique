@@ -17,7 +17,7 @@
 Software Engineer  ·  Fullstack Dev  ·  UI / UX
 ```
 
-> *"Construo interfaces que as pessoas **sentem** — não só veem.*
+> *"Construo interfaces que as pessoas **sentem**, não só veem.*
 > *Backend sólido. Frontend com alma. Design que pensa."*
 
 <br/>
